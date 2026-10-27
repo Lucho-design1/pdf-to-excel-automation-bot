@@ -1,2 +1,4 @@
-# pdf-to-excel-automation-bot
-Bot de Python para extracción automatizada de datos de facturas PDF a hojas de cálculo. Servicio disponible para implementación inmediata. Pagos vía PayPal: https://paypal.me/lucianobenech
+# Automatización de Facturas PDF
+Servicio de extracción de datos. Precio: $49 USD.
+Contacto: lucianobenech@gmail.com
+Pago: https://paypal.me/lucianobenech
